@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a7a8731.chunk.css",
+    "main.js": "/static/js/main.a447f840.chunk.js",
+    "main.js.map": "/static/js/main.a447f840.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b986eb4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b986eb4e.js.map",
+    "static/css/2.433215e9.chunk.css": "/static/css/2.433215e9.chunk.css",
+    "static/js/2.aeefd73d.chunk.js": "/static/js/2.aeefd73d.chunk.js",
+    "static/js/2.aeefd73d.chunk.js.map": "/static/js/2.aeefd73d.chunk.js.map",
+    "static/js/3.60fc73dc.chunk.js": "/static/js/3.60fc73dc.chunk.js",
+    "static/js/3.60fc73dc.chunk.js.map": "/static/js/3.60fc73dc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.433215e9.chunk.css.map": "/static/css/2.433215e9.chunk.css.map",
+    "static/css/main.2a7a8731.chunk.css.map": "/static/css/main.2a7a8731.chunk.css.map",
+    "static/js/2.aeefd73d.chunk.js.LICENSE.txt": "/static/js/2.aeefd73d.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/hotellogo.bdd5a21f.png": "/static/media/hotellogo.bdd5a21f.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/room.9f45b5ba.jpg": "/static/media/room.9f45b5ba.jpg",
+    "static/media/sheetal.c4851740.jpg": "/static/media/sheetal.c4851740.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b986eb4e.js",
+    "static/css/2.433215e9.chunk.css",
+    "static/js/2.aeefd73d.chunk.js",
+    "static/css/main.2a7a8731.chunk.css",
+    "static/js/main.a447f840.chunk.js"
+  ]
+}
